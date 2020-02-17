@@ -6,12 +6,6 @@
 
 [![NPM](https://img.shields.io/npm/v/sancho-ui-data-table.svg)](https://www.npmjs.com/package/sancho-ui-data-table) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
-## Install
-
-```bash
-npm install --save sancho-ui-data-table
-```
-
 ## Usage
 
 ```tsx
